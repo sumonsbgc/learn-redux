@@ -1,0 +1,12 @@
+{
+  "name": "learn-redux",
+  "version": "1.0.0",
+  "description": "I am just trying to learn redux.",
+  "main": "index.js",
+  "repository": "https://github.com/sumonsbgc/learn-redux",
+  "author": "Mohammad Sumon",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
